@@ -1,5 +1,5 @@
 (defproject easter-day "0.1.0-SNAPSHOT"
-  :description "Function to find Easter Sunday given year."
+  :description "Function to find day and month of Easter Sunday given year."
   :url "http://github.com/eivind/easter-day"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
