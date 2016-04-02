@@ -1,4 +1,4 @@
-# easter-day
+# clj-easter-day
 
 A Clojure library designed to calculate Easter Sunday for a given year.
 
