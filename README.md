@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/easter-day.svg)](https://clojars.org/easter-day)
+
 # clj-easter-day
 
 A Clojure library designed to calculate Easter Sunday for a given year.
