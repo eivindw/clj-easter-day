@@ -12,6 +12,7 @@ Using Harold Spencer Jones formula as given here:
 The function `easter-sunday` will, given a 4 digit year, return a map containing the
 day and month of Easter Sunday for that given year:
 ```clojure
+(require '[easter-day :refer [easter-sunday]])
 (:day (easter-sunday 2016))
 (:month (easter-sunday 2016))
 ```
